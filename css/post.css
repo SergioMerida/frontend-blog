@@ -1,0 +1,100 @@
+.linea {
+	border: 1px solid #D8D8D8;
+	background-color: #D8D8D8;
+	margin: 10px 10px 10px 10px;
+    }
+
+/*Bloque con nombre y especificacion*/
+.linea2 {
+	border: 60px solid #FAFAFA;
+	background-color: #FAFAFA;
+    }
+
+.linea2 p:first-child {
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+	margin-right: 10px;
+	margin-left: 250px;
+}
+
+.linea2 p:nth-child(2) {
+	font-size: 15px;
+	color: black;
+	margin-right: 10px;
+	margin-left: 250px;
+}
+
+.older {
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+span {
+	color: #2E9AFE;
+}
+
+#div1 {
+	color: #2E9AFE;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#div2 {
+	color: #2E9AFE;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#div3 {
+	color: #2E9AFE;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.title {
+	font-size:20px;
+	font-weight: bold;
+}
+
+footer {
+	margin-left: 900px;
+	margin-top: 150px;
+}
+
+.linea4 {
+	border: 1px solid #E6E6E6;
+	background-color: #E6E6E6;
+	margin: 50px 10px 10px 10px;
+    }
+
+.linea5 {
+	border: 1px solid #E6E6E6;
+	background-color: #E6E6E6;
+	margin: 50px 10px 10px 10px;
+    }
+
+.return {
+	border: 1px solid #BDBDBD;
+	height: 30px;
+	width: 120px;
+	border-radius: 20px;
+	margin-left: 900px;
+	margin-top: 10px;
+}
+
+.return a {
+	color: #2E64FE;
+	text-decoration: none;
+	line-height: 30px;
+	margin-left: 15px;
+	}
+
+/*Copyright*/
+.copy {
+	color: #6E6E6E;
+	font-size: 10px;
+	margin-left: 300px;
+	padding-bottom: 100px;
+}
+
